@@ -23,11 +23,11 @@
 ![icons8-nodejs-48](https://github.com/hnb-rabear/hnb-rabear/assets/9100041/bc914c12-0533-49d1-9c6e-6c225fda4493)
 ![icons8-typescript-48](https://github.com/hnb-rabear/hnb-rabear/assets/9100041/fb4c91af-6060-4a8b-bf93-5cfd6d8df4bb)
 ![icons8-mongodb-48](https://github.com/hnb-rabear/hnb-rabear/assets/9100041/79d40b9a-5c2b-4a00-89b4-3adeb949e1f4)
+![icons8-redis-48](https://github.com/hnb-rabear/hnb-rabear/assets/9100041/cdba2278-7a2c-45f9-88f1-47d3c9ecc1ec)
 
 ### I am familiar with:
 ![icons8-php-48](https://github.com/hnb-rabear/hnb-rabear/assets/9100041/747f6afe-6315-4371-a1c9-c0cd98a36a39)
 ![icons8-wordpress-48](https://github.com/hnb-rabear/hnb-rabear/assets/9100041/971e0f97-8e26-4205-aa87-97710c32cdb3)
-![icons8-redis-48](https://github.com/hnb-rabear/hnb-rabear/assets/9100041/cdba2278-7a2c-45f9-88f1-47d3c9ecc1ec)
 
 ### I am learning:
 ![icons8-react-native-48](https://github.com/hnb-rabear/hnb-rabear/assets/9100041/b9fe241c-572f-4749-a295-0d2b798a4298)
