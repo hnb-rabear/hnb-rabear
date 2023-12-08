@@ -31,3 +31,5 @@
 ![icons8-tailwind-css-48](https://github.com/hnb-rabear/hnb-rabear/assets/9100041/5c9c5c89-1051-4627-9ec9-4dbcfb83a031)
 ![icons8-prisma-orm-48](https://github.com/hnb-rabear/hnb-rabear/assets/9100041/a463bd96-db94-45f6-a688-e326b7df5f4d)
 ![icons8-redis-48](https://github.com/hnb-rabear/hnb-rabear/assets/9100041/cdba2278-7a2c-45f9-88f1-47d3c9ecc1ec)
+
+<a href="https://app.daily.dev/rabear"><img src="https://api.daily.dev/devcards/e6f60615faf34caea03c1ad9f8f99419.png?r=qm1" width="400" alt="Hung Nguyen Ba's Dev Card"/></a>
