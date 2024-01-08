@@ -22,4 +22,8 @@
 ### I'm familiar with:
 ![My Skills](https://skillicons.dev/icons?i=php,react,nextjs,tailwind,prisma,redis&theme=dark)
 
+![hnb-rabear's GitHub stats](https://github-readme-stats.vercel.app/api?username=hnb-rabear&show_icons=true&theme=transparent)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hnb-rabear&layout=compact)
+
 <a href="https://app.daily.dev/rabear"><img src="https://api.daily.dev/devcards/e6f60615faf34caea03c1ad9f8f99419.png?r=qm1" width="400" alt="Hung Nguyen Ba's Dev Card"/></a>
