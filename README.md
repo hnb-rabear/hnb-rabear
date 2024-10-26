@@ -2,11 +2,11 @@
 
 ### Hi there 👋
 
-👋 Hi there, I'm a passionate **Unity Game Developer** 🕹️ who has been crafting games since early 2016. I have a penchant for mid-core RPGs and have created quite a few of them. RPGs are my favorite genre, both to play 🎲 and to develop 🛠️.
+👋 Hello! I’m a Unity Game Developer with experience since 2016, focused on creating mid-core RPGs. RPGs are my favorite genre to both play and develop, and I've built several games in this style. I've also developed many custom tools to make game development faster and more efficient for myself and other developers.
 
-🎮 As a gamer, I enjoy fast-paced action games, souls-like, roguelike, and of course, RPGs. My love for gaming fuels my creativity and innovation in game development.
+🎮 As a gamer, I love fast-paced action games, souls-likes, roguelikes, and especially RPGs. My love for gaming inspires my creativity and ideas in game development.
 
-💻 Apart from game development, I also have an interest in web/app development. Currently, I'm diving into the world of Next.js and exploring the fascinating realm of AI 🤖.
+💻 Besides games, I’m also interested in web and app development and enjoy exploring new skills and projects.
 
 🔭 Check out my latest projects:
 - [Farm City](https://play.google.com/store/apps/details?id=com.citybay.farming.citybuilding) 🏡
